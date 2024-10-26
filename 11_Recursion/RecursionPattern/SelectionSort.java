@@ -1,4 +1,4 @@
-import java.util.Arrays;
+classimport java.util.Arrays;
 
 public class SelectionSort {
     public static void main(String[] args) {
