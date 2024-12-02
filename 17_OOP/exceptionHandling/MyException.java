@@ -1,4 +1,4 @@
-package exceptionHandling;
+clspackage exceptionHandling;
 
 public class MyException extends Exception{
     public MyException(String message) {
